@@ -10,7 +10,7 @@ import com.shaluambasta.noteapp.db.DBOpenHelper
 
 class AddNoteActivity : AppCompatActivity() {
 
-
+    //data
     private lateinit var etTitle: TextInputLayout
     private lateinit var etDescription: TextInputLayout
     private lateinit var fabSend: FloatingActionButton
